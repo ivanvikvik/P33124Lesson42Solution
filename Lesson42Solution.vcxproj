@@ -140,6 +140,8 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="task01.cpp" />
+    <ClCompile Include="task02.cpp" />
+    <ClCompile Include="task03.cpp" />
     <ClCompile Include="util.cpp" />
   </ItemGroup>
   <ItemGroup>
