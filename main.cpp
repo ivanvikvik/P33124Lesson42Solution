@@ -20,8 +20,12 @@ int main() {
 	cout << "Product of elements between extreme values is " << result << endl;*/
 
 	// task02
-	bubble_sort_asc(array, size);
-	cout << "Vector after: " << convert(array, size) << endl;
+	//bubble_sort_asc(array, size);
+	//cout << "Vector after: " << convert(array, size) << endl;
+
+	// task 03
+	int sum = sum_absolute_values_after_first_negative_value(array, size);
+	cout << "Sum absolute values after first negative value is " << sum << endl;
 
 	return 0;
 }
